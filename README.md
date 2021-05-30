@@ -11,12 +11,11 @@
 
 
 <div>
-  <a href="/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaodev&layout=compact&hide_border=true&theme=dracula&count_private=true&include_all_commits=true" />
-  </a>
-
   <a href="/" align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=simaodev&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaodev&layout=compact&hide_border=true&theme=dracula&count_private=true&include_all_commits=true" />
   </a>
 </div>
 
